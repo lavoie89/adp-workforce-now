@@ -32,7 +32,7 @@ To get a development environment set up and running, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/adp-workforce-now.git
+   git clone https://github.com/lavoie89/adp-workforce-now.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd adp-workforce-now
